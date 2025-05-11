@@ -1,0 +1,50 @@
+#footer {
+  background: rgb(170, 134, 190);
+  color: #FFFFFF;
+  padding: 30px 20px;
+  flex-direction: column;
+}
+.tiil  p {
+  text-align: center;
+}
+
+/* #footer h4 {
+  text-align: left;
+}
+
+#footer p {
+  text-align: left;
+}
+
+footer a:hover {
+  text-decoration: underline;
+}
+
+footer input[type="email"] {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  margin-right: 5px;
+}
+
+footer button {
+  padding: 10px;
+  border: none;
+  border-radius: 5px;
+  background-color: #9d00ff;
+  color: white;
+  cursor: pointer;  
+}
+
+footer button:hover {
+  background-color: #d5c5df;
+} */
+
+
+
+@media (max-width: 600px) {
+  footer {
+      flex-direction: column;
+      align-items: flex-start;
+  }
+}
