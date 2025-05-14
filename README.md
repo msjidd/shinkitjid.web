@@ -1,1 +1,1 @@
-# shinkitjid.web
+# shinjidkit

@@ -8,9 +8,16 @@
 }
 
 #submission h1 {
+  font-size: 40px;
+  text-align: center;
+  margin-top: -10%;
+}
+#submission h2 {
   font-size: 20px;
   text-align: center;
+  margin-top: 0%;
 }
+
 
 .favicon{
   position:absolute;

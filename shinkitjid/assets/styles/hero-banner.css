@@ -28,11 +28,12 @@
   top:35%;
 }
 .hero-content p {
-  text-indent: 0cap;
-  text-align: justify;
+  text-align: center;
   text-indent: 8%;
-  position: relative;
-  margin-left: 20%;
+  margin-left: 8%;
+  width: 100%;
+  
+
  
 }
 .hero-content h3 {

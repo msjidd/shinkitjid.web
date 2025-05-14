@@ -1,33 +1,33 @@
 .about-content h1 {
-    font-size: 60px;
+    font-size: 100px;
     position: absolute;
     top: 25%;
-    left: 22%;
+    left: 20%;
 
 
 }
 
 .about-content p {
-    position: relative;
-    margin-bottom: 20%;
-    left: 0%;
-    font-size: 17px;
+    font-size: 18px;
+    margin-bottom: 5%;
     text-align: justify;
+    text-indent: 8%;
+    margin-left: 0%;
+    width: 80%;
    
-    
+  
 }
-
-.about-content h4 {
-    position: absolute;
-    bottom: 26%;
-    left: 7%;
+.about-ni h4 {
+    width: 100%;
+    margin-left: -10%;
+    
 
 }
 
 .about-content .btn-group {
     position: absolute;
-    left: 23%;
-    top: 80%;
+    left: 27%;
+    top: 85%;
 }
 
 .about-image {
@@ -43,9 +43,8 @@
     border-radius: 50%;
     box-shadow: 10px 10px 5px 12px #c4a8d6;
     position: absolute;
-    top: 30%;
-    right: 7%;
-
+    top: 25%;
+    right: 6%;
 }
 
 
@@ -54,22 +53,27 @@
     .about-content h1 {
         font-size: 30px;
         position: absolute;
-        top: 25%;
+        top: 20%;
         left: 10%;
 
     }
 
     .about-content p {
-        position: absolute;
-        top: 35%;
-        left: none ;
+        font-size: 16px;
+        width: 100%;
+        margin-bottom: 37%;
+      
+   
+     
+       
         
     }
 
     .about-content h4 {
         position: absolute;
-        top: 88%;
-        left: 0%;
+        top: 90%;
+        left: 10%;
+        text-decoration: none;
 
     }
 
