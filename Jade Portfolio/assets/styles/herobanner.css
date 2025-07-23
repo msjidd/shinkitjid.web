@@ -1,0 +1,62 @@
+#hero-banner {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 32px;
+    padding: 72px 24px;
+  }
+  
+  .hero-content {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+    max-width: 500px;
+    margin-top: 6%;
+    margin-left:7%;
+  }
+  .jade {
+    position: absolute;
+    top:52%;
+    left: 13%;
+  }
+  
+  
+  .hero-content h2 {
+    font-size: 40px;
+    text-align: center;
+    
+  }
+  .hero-content p {
+    text-align: justify;
+    text-indent:10%;
+    font-size: 19px;
+    margin-top: 30%;
+    color: #2E2E2E;
+
+
+    
+  }
+  .hero-image {
+    width: 100%;
+    box-sizing: border-box;
+  }
+  
+  
+  
+  .hero-image img {
+    width: 35%;
+    height: 450px;
+    object-fit: cover;
+    border-radius: 50%;
+    position: absolute;
+    top:30%;
+    right:10%;
+  }
+  
+  .hero-content .btn-group {
+    display: flex;
+    gap: 50px;
+    position: absolute;
+    top:80%;
+    left: 17%;
+  }
